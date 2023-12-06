@@ -1,0 +1,51 @@
+Name,Surname,Title,Role,Level,Salary,Department
+Dumisani,     Thwala,Mr,Back-End Developer,Graduate,52171,Web Applications
+Tony,   Horn,Mr,Back-End Developer,Graduate,103397,Mobile Applications
+Vuyokazi,barnes,Mr,Business Analyst,Graduate,69220,Web Applications
+sello  ,Details,Mr,Database Analyst,Graduate,54945,Mobile Applications
+     Jacqueline       ,fredericks,Ms,Front-End Developer,Graduate,51104,Web Applications
+Walter           ,Jansen        ,Mr,Front-End Developer,Graduate,35454,Mobile Applications
+Ernest,maritz,Mr,Full-Stack Developer,Graduate,88569,Web Applications
+Kevin,Motloung      ,MR,Systems Analyst,Graduate,99370,Mobile Applications
+takalani      ,Richards           ,mr,Systems Analyst,Graduate,57906,Web Applications
+Bronwyn       ,Swartz,Miss,UI/UX Developer,Graduate,34350,Mobile Applications
+  Jan,     Ngwenya,MR,Back-End Developer,Intern,38959,Web Applications
+Patience,    Willemse,Mrs,Back-End Developer,Intern,52053,Mobile Applications
+Dirk,Banda,Mr,Business Analyst,Intern,37601,Web Applications
+      Janine             ,De Villiers,Mrs,Database Analyst,Intern,32886,Mobile Applications
+barend,Edwards,MR,Database Analyst,Intern,13163,Web Applications
+Jabulani,Horn,Mr,Front-End Developer,Intern,55725,Mobile Applications
+kelly            ,Manuel,Ms,Full-Stack Developer,Intern,47442,Web Applications
+Claire,Morris,Ms,Full-Stack Developer,Intern,36000,Mobile Applications
+Janet,Patel,Ms,Systems Analyst,Intern,39081,Web Applications
+Pearl,Stewart,Miss,UI/UX Developer,Intern,24289,Mobile Applications
+     Christopher,     Walker       ,Mr,Back-End Developer,Junior,122894,Web Applications
+gugulethu             ,   Maluleka,Mrs,Business Analyst,Junior,181609,Mobile Applications
+      Lesego,Bennett,ms,Business Analyst,Junior,41083,Web Applications
+Lizelle,Dhlamini,miss,Database Analyst,Junior,64179,Mobile Applications
+André          ,gerber,Mrs,Front-End Developer,Junior,52357,Web Applications
+Patience,Khoza,,Front-End Developer,Junior,104062,Mobile Applications
+Lynn,Mashaba,Dr,Full-Stack Developer,Junior,115478,Web Applications
+phumzile,motsepe    ,Prof,Systems Analyst,Junior,129627,Mobile Applications
+        Ivan,Schoeman,dr,Systems Analyst,Junior,167439,Web Applications
+Antoinette,Van Der Berg,Dr,UI/UX Developer,Junior,118731,Mobile Applications
+Marco              ,    Morris,prof,Back-End Developer,Mid-Level,110506,Web Applications
+ Tumelo,   Rikhotso,Mr,Business Analyst,Mid-Level,144372,Mobile Applications
+Danie   ,Campbell,Mrs,Business Analyst,Mid-Level,205621,Web Applications
+Johan,du Plessis,MR,Database Analyst,Mid-Level,235178,Mobile Applications
+Marthinus,Gordon,Mrs,Front-End Developer,Mid-Level,106178,Web Applications
+     Louise,Lourens          ,Mrs,Front-End Developer,Mid-Level,158634,Mobile Applications
+Jessica          ,Mchunu,miss,Full-Stack Developer,Mid-Level,70741,Web Applications
+liezel,moyo,ms,Systems Analyst,Mid-Level,106276,Mobile Applications
+Douglas,Sibanda        ,MR,UI/UX Developer,Mid-Level,57353,Web Applications
+ Contact           ,Xaba,dr,UI/UX Developer,Mid-Level,85836,Mobile Applications
+marthinus,    ngobeni,Ms,Back-End Developer,Senior,354298,Web Applications
+Priscilla,Anderson,Ms,Business Analyst,Senior,262686,Mobile Applications
+Danie,davies,dr,Database Analyst,Senior,313491,Web Applications
+nicole       ,Ebrahim,dr,Database Analyst,Senior,180919,Mobile Applications
+Siyabonga,Hanekom,Ms,Front-End Developer,Senior,213477,Web Applications
+Laura,Makhanya,Ms,Full-Stack Developer,Senior,293352,Mobile Applications
+  Nadine,Morris,Mrs,Full-Stack Developer,Senior,326767,Web Applications
+    Nico,Mthembu     ,Mr,Systems Analyst,Senior,97673,Mobile Applications
+Juan,Smit              ,Mr,UI/UX Developer,Senior,308542,Web Applications
+Precious,zungu,Miss,UI/UX Developer,Senior,264376,Mobile Applications
