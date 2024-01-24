@@ -1,0 +1,28 @@
+Notes:
+
+1- Recommended Resources:
+ -> Online Journal Articles is empty, it can be removed
+ -> The Font for the second Journal paper is not uniform, it can be changed in the HTML (I can show you a trick if need be)
+ -> There are no websites (that section can be removed)
+
+2- Employer engagement is untouched it can removed or filled in (with some stuff)
+
+3 - The time allocation guidelines might need to be spread for four blocks (please see ITBDA4). I used that template
+
+4 - Assessment. There is a red font on of one the words (can be removed in the HTML)
+
+5 - Details of assessment -> the weeks the project cover are they for block 1 or 2, please clarify
+e.g Covers Block 1 Weeks 1-5 or Block 1 + Block 2 Week 1-3
+
+6. Module Content:
+
+Is there a Week 8?????
+
+Block 4 - Week 7: instead of all, you can use Chapter 1 - xxx
+
+There are no information for assessments in the tables assessments columns
+
+Module content block 4: Week 0 please -add Induction and orientation 
+
+Week 0: Remove the empty bullet under references
+
