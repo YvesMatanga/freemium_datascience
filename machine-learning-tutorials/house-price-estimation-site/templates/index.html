@@ -1,0 +1,14 @@
+<h3 style="color:blue">House Price Estimation</h3><br/>
+<form method="post" action="/predict">  
+    <label>Enter the Age of the House:</label>
+        <input type="text" name="house_age"/><br/><br/>
+    <label>Enter Number of Stores:</label>
+        <input type="text" name="num_stores"/>  <br/>  <br/>
+    <label>Enter Distance to Nearest Store (kM):</label>
+        <input type="text" name="dist_nStores"/><br/><br/>
+    <input type="submit" value="Estimate" style="background-color:blue; color:white; border: solid 1px blue; border-radius:5px; padding: 10px;"/><br/>
+</form>
+
+{% if prediction %}
+	<p>The House Price Estimate is <b>R{{ prediction }}</b></p>
+{% endif %}
