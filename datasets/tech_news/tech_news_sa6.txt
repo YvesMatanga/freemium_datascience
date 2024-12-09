@@ -1,0 +1,51 @@
+SA government top target for cyber criminals
+Nkhensani Nkhwashu
+By Nkhensani Nkhwashu, ITWeb portals journalist.
+Johannesburg, 28 Nov 2024
+Lionel Dartnall, acting country manager for South Africa at Check Point Software.
+Lionel Dartnall, acting country manager for South Africa at Check Point Software.
+Government organisations in South Africa face an average of 3 312 attacks per week, followed by the education sector with of 1 729 attacks and the finance sector with 999 attacks.
+
+This was revealed at the launch of Check Point Software's 2024 African Perspectives on Cyber Security Report last week. 
+
+According to the report, the government sector is heavily targeted by botnets and ransomware, with FakeUpdates being the most prevalent malware. Information disclosure is mentioned as the most common vulnerability exploited, impacting 73% of government organisations.
+
+Lionel Dartnall, acting country manager for South Africa at Check Point Software, said with South Africa being at the forefront of the continent’s digital transformation, it has made it a focal point for sophisticated cyber-attacks.
+
+He shared a recent case study where government departments were hit by 
+ransomware
+ attacks which crippled government operations for several days. Key services, including the processing of social grants and the administration of public health services, were severely disrupted.
+
+“In July 2024, multiple South African government agencies were simultaneously targeted in a coordinated 
+ransomware
+ attack. The attack exploited zero-day vulnerability in a widely used software platform, allowing the attackers to encrypt critical government data and disrupt operations across several departments. The ransomware used in this attack was identified as a variant of the notorious Ryuk ransomware, known for its ability to target large organisations and demand substantial ransoms.”
+
+See also
+
+Decoding cyber security: Trends and predictions for the next decade
+
+SA’s cyber security vulnerability exposed
+Dartnall said the attackers demanded a ransom of 10 million USD in Bitcoin, threatening to release sensitive data to the public if their demands were not met.
+
+“The South African government, with the assistance of local and international cybersecurity experts, launched an immediate incident response. Despite the advanced nature of the attack, the government refused to pay the ransom. Instead, they focused on restoring systems from backups and strengthening their cyber security defences. The recovery process took over a week, during which time alternative methods were employed to continue critical services.”
+
+He added that in South Africa alone, cyber crime costs close to 1 percent of the GDP, yet cyber security spending remains disproportionately low. “It’s imperative for African nations to invest in proactive security measures to secure their digital economies.”
+
+Botnets and information stealers are the most common malware targeting the education sector and 
+phishing
+ remains a significant threat, with increased targeting of academic e-mail systems.
+
+Meanwhile, financial institutions are primarily targeted by banking trojans and infoStealer. Outdated financial systems and insufficient encryption practices create weaknesses that are often targeted and exploited.
+
+Check Point Software's recomendations and predictions for 2025
+Some key highlights from the Check Point 2025 global cyber security predictions report include:
+
+ Rise of AI-powered attacks
+Ransomware predicted to hit supply chains hard
+Improper AI usage to increase data breaches
+Quantum computing to pose new threats to encryption
+Social media exploitation and deepfakes will become commonplace
+AI-driven SOC co-pilots will revolutionise security operations
+CIO and CISO roles will converge as AI adoption grows
+Cloud security platforms will dominate the landscape
+IOT expansion to increase attack surface.

@@ -1,0 +1,149 @@
+Top ICT tenders: SASSA aims to pay right grant to right person
+Kimberly Guest
+By Kimberly Guest, ITWeb contributor
+Johannesburg, 26 Nov 2024
+SASSA wants to review its enterprise architecture.
+SASSA wants to review its enterprise architecture.
+National Treasury’s eTender Portal has seen well over 700 tender and quotation requests posted on the platform this week, as the public sector enters its year-end rush period.
+
+For the ICT sector, it is the South African Social Security Agency (SASSA) that continues to dominate the top tenders of the week.
+
+Over the past few weeks, the agency’s provinces have issued multiple tender requests for a variety of hardware upgrades, which it adds to this week. This week’s tender of interest is for a review of its enterprise architecture (EA).
+
+In its documentation, SASSA reveals it procured services in 2012 to develop and implement its EA, which saw the introduction of the Digital Beneficiary Services platform.
+
+“SASSA has since implemented systems and technologies in line with that Digital Beneficiary Services platform. The agency still lacks in strengthening the loopholes in order to efficiently pay the right grant to the right person. This is due to the lack of fully-fledged EA competency within the agency,” it says.
+
+The current ICT structure is made up of several competencies: information management, which manages its information; business applications, responsible for all systems; regional management operations, which is responsible for the platforms that host the systems to conduct the business of the agency; and enterprise architecture, which is responsible for the planning and governance of the IT to be implemented within the agency.
+
+“The enterprise architecture has the competence of the business architecture and lacks the other pillars of EA. The EA value is derived from the value it delivers to the business, hence the need to establish the EA function in the review and realise practical business value by addressing the function and value in parallel,” says SASSA.
+
+SASSA is therefore looking to procure the services of a competent service provider to analyse the current EA, propose the pillars of EA that are urgently required to be implemented as a quick win and transfer the skills in order to maintain the EA discipline within the agency.
+
+Other tenders that make this week’s top 10:
+
+Staying with SASSA, the agency’s Limpopo region is calling for the supply and delivery of 120 tablets and 120 tablet bags. The successful tenderer will need to deliver to the agency’s Polokwane regional office within 90 days of order acceptance.
+SASSA’s Eastern Cape region is inviting prospective service providers to bid for the supply, delivery, installation and testing of a queue management system (QMS) for 39 local offices, installation of 130 network points for access points and installation of 
+fibre
+ links for three offices.
+
+The Department of Public Works and Infrastructure wishes to appoint a service provider to supply a call centre customer relationship management solution with maintenance and support. The required cloud-based solution must have the capability to integrate with any of the systems currently used by the department, it says.
+
+Postbank is looking for a reputable consultancy firm or service provider to supply a fully automated and digitised omni-channel process for onboarding customers. The aim is to conduct a comprehensive review of its customer onboarding process and system, which identifies areas for improvement, enhances customer experience and ensures regulatory compliance, while optimising operational efficiency.
+
+Eskom is advertising for a learning management system, including implementation and support and maintenance. This forms part of the digitalisation journey of its learning environment to conveniently meet the needs of learners. Its current system was implemented in March 2012, and is now obsolete and lacks the functionalities required to implement digital learning successfully.
+
+The City of Cape Town is inviting proposals for the supply, delivery, installation, maintenance and commissioning of 
+data
+ network devices and services. This will see the municipality procure local area network, data centre and WiFi equipment and/or spares and related software to operate the existing network as and when required.
+
+Sentech invites expressions of interest to onboard a supplier and/or a 
+partner
+ of a fintech system operator to supply, implement, integrate, train and support a payment and billing platform for broadband services. The fintech system operator should have national reach cash processing capabilities to provide a multi-tenant payment and billing system to manage WiFi subscribers and channel partners, ensuring revenue management.
+
+The Companies and Intellectual Property Commission (CIPC) wishes to appoint a service provider to migrate all its Informix databases to Oracle. The commission notes it intends to replace legacy off-the-shelve applications currently running on Informix and migrate Informix data of in-house-developed business applications to Oracle. However, before Informix can be decommissioned, exact mirroring of data needs to be established.
+
+The CIPC is also inviting proposals for the provision of specialised software support and maintenance services on an on-demand basis. It notes it has automated numerous essential business processes over the years to run on Computron Workflow, ERMS, Verity search engine and manual dispatch of letters. However, support and maintenance of these applications depends largely on the legacy Microsoft Visual Basic programming language and/or non-supported OEM deployed production software. Although CIPC is embarking on replacing legacy systems, ongoing support and maintenance of these applications will remain critical for the time being.
+
+New tenders
+South African Social Security Agency
+
+SASSA invites prospective bidders to submit proposals for the review of its enterprise architecture for three years.
+
+Non-compulsory briefing: 28 November
+Tender no: SASSA:21-24-ICT-HO
+Information: Mandla Sibeko, Tel: 012 400 2634, E-mail: SASSAEA2024@sassa.gov.za
+Closing date: 17 January 2025
+
+­Tags: Services, professional services, enterprise architecture, EA, software
+
+The agency’s Limpopo region is calling for the supply and delivery of 120 tablets.
+
+Tender no: SASSA:06-24-ICT-LP
+Information: Charlotte Puktuka, Tel: 015 291 7429, E-mail: CharlotteP@sassa.gov.za
+Closing date: 12 December 2024
+
+­­Tags: Hardware, computing, mobility, tablets
+
+Prospective service providers are invited to bid for the supply, delivery, installation and testing of a QMS for 39 local offices, installation of 130 network points for access points and installation of fibre links for three offices for SASSA’s Eastern Cape region.
+
+Compulsory briefing: 3 December
+Tender no: SASSA: 11-24-ICT-EC
+Information: Leslie Wayne Bezuidenhout, Tel: 043 707 6366, E-mail: TenderQueriesEC@sassa.gov.za
+Closing date: 12 December 2024
+
+­Tags: Hardware, software, queue management system, QMS, networking, access points, network points, fibre links
+
+Department of Public Works and Infrastructure
+
+The national department wishes to appoint a service provider to supply a call centre customer relationship management solution with maintenance and support for 36 months.
+
+Compulsory briefing: 3 December
+Tender no: H24/006GS
+Information: Khayakazi Zaki, Tel: 012 492 2112, E-mail: khayakazi.zaki@dpw.gov.za
+Closing date: 11 December 2024
+
+­Tags: Software, call centres, contact centres, customer relationship management, CRM, services, support and maintenance
+
+Postbank
+
+The state-owned entity is looking for a reputable service provider to supply a fully automated and digitised omni-channel process for onboarding customers.
+
+Non-compulsory briefing: 29 November – Microsoft Teams
+Tender no: RFP 02/17/24-25
+Information: Vusi Maditsi, Tel: 076 706 9269, E-mail: Vusi.Maditsi@postbank.co.za
+Closing date: 9 December 2024
+
+­Tags: Software, onboarding, services, professional services
+
+Eskom
+
+The utility is advertising for a learning management system, including implementation, support and maintenance for five years.
+
+Compulsory briefing: 28 November – Microsoft Teams
+Tender no: MWP2837CX
+Information: Hamilton Ngwenya, Tel: 013 699 7088, E-mail: Ngwenyha@eskom.co.za
+Closing date: 11 December 2024
+
+­Tags: Software, learner management system, LMS, services, training and e-learning, support and maintenance
+
+City of Cape Town
+
+Proposals are invited for the supply, delivery, installation, maintenance and commissioning of data network devices and services.
+
+Non-compulsory briefing: 6 December – Virtual, Link
+Tender no: 137S/2024/25
+Information: E-mail: SCM.Tenders3@capetown.gov.za
+Closing date: 22 January 2025
+
+­Tags: Telecommunications, hardware, networking, data, devices, services
+
+Sentech
+
+The company invites expressions of interest to onboard a supplier and/or a partner of a fintech system operator to supply, implement, integrate, train and support a payment and billing platform for broadband services for three years with an option for a further two years.
+
+Non-compulsory briefing: 29 November – Microsoft Teams
+Tender no: SENT-057-2024-25
+Information: Amukelani, Norman or Nosipho, Tel: 011 471 4443, E-mail: tendera@sentech.co.za
+Closing date: 22 January 2025
+
+­Tags: Software, fintech, billing, broadband
+
+Companies and Intellectual Property Commission
+
+The commission wishes to appoint a service provider to migrate all its Informix databases to Oracle.
+
+Compulsory briefing: 6 December
+Tender no: CIPC BID NUMBER:13/2024/2025
+Information: Ntombi Maqhula, Tel: 012 394 5344, E-mail: nmaqhula@cipc.co.za
+Closing date: 24 January 2025
+
+­Tags: Software, services, databases, migration
+
+The CIPC also invites proposals for the provision of specialised software support and maintenance services on an on-demand basis.
+
+Tender no: CIPC BID NUMBER:14/2024/2025
+Information: Ntombi Maqhula, Tel: 012 394 5344, E-mail: nmaqhula@cipc.co.za
+Closing date: 24 January 2025
+
+­Tags: Software, services, support and maintenance

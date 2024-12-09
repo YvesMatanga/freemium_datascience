@@ -1,0 +1,74 @@
+Inclusive infrastructure key to Africa’s connectivity gains
+Simnikiwe Mzekandaba
+By Simnikiwe Mzekandaba, IT in government editor
+Johannesburg, 27 Nov 2024
+Internet accessibility on the continent is at around 30% to 35%.
+Internet accessibility on the continent is at around 30% to 35%.
+While the African continent has “plenty” of submarine cables landing on its shores, accessibility to critical infrastructure to improve connectivity remains an issue.
+
+This is according to Pierre Dandjinou, VP of stakeholder engagement: Africa at the Internet Corporation for Assigned Names and Numbers (ICANN).
+
+Dandjinou spoke to ITWeb following the launch of ICANN’s new Applicant Support Programme (ASP), which aims to create opportunities for inclusive online representation.
+
+According to Dandjinou, accessibility on the continent is at around 30% to 35%, with most people accessing the internet via mobile phones. This progression is “not bad” compared to 10 years ago, he added.
+
+He underscored the importance of infrastructure, including submarine cables and internet exchange points (IXPs), for improving connectivity.
+
+See also
+
+New domain names to create stronger online identities for SA
+
+Registry Africa renews agreement with ICANN
+“What I mean by infrastructure is not just the submarine cables. We do have plenty of them [submarine cables] today in Africa; at least 15 are surrounding Africa now.
+
+“The issue is the access to the internet. Once the cable is let down onto a country’s shores, how do we make sure it goes into those areas that are a little bit far from the shore?
+
+“The other aspect is the IXPs. How do you organise the 
+network
+ in such a way that there is interconnectivity within your country, and it’s not necessarily being forced to connect from outside.
+
+“You connect your links to the outside world and then back again. This is about money, speed and latency issues. So, how do people call the network interconnected, what do we call the IXP, when we don’t have much of it in Africa. We probably have close to 14%, so we need more of that.”
+
+He noted other issues pertaining to the servers. “The internet comes with several servers, but you need to have a copy of those servers in your places, to speed up queries. All of these are things that Africa still needs to accelerate. We do have a few, but we need to accelerate more. That's our perception at ICANN of connectivity issues in Africa.”
+
+On the upside, Dandjinou said being able to access the internet via mobile phone, which is how most people in Africa connect, is one of the important elements for the 
+digital
+ development of Africa.
+
+“Although, of course, people may have personal computers, the most preferred way of accessing the internet is via the phone. This is an interesting figure to know, because in Africa, we have more than 800 million mobile phones, which makes Africa the second-largest market in the world.
+
+“It means that whatever strategy one puts into place in Africa, it cannot ignore accessibility via the mobile phone.”
+
+Pierre Dandjinou, VP of stakeholder engagement: Africa at ICANN.
+Pierre Dandjinou, VP of stakeholder engagement: Africa at ICANN.
+ICANN is a non-profit organisation (NPO) responsible for co-ordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the internet, ensuring the network’s stable and secure operation.
+
+Its ASP initiative, which falls under the ambit of the New Generic Top-Level Domains (gTLD) Programme, allows for the creation of new gTLDs.
+
+A gTLD is the part of a web address that comes after the dot, for example, .org or .za or .net.
+
+The ASP was launched with the aim to empower underserved communities to create their own internet domains, according to Dandjinou. He noted that it offers financial and technical support to applicants from developing regions, particularly Africa, which had limited participation in previous domain name programmes.
+
+The ASP will cover up to 80% of costs, with applicants contributing 20%. Eligible entities include non-governmental organisations, brand owners, universities and municipalities.
+
+Eligible applicants will also receive support, including free expert services, training and a reduction in evaluation fees.
+
+The New gTLD Programme allows for the creation of new gTLDs, offering more diverse and representative options online, according to ICANN.
+
+“The internet started with just a handful of TLDs, such as .com or .net or .org, and .za. The domain name system has evolved to accommodate the internet's growing complexity and its billions of users. The increased number of generic TLDs helps categorise websites and clearly communicate their purpose,” explained Dandjinou.
+
+“This is the first opportunity since 2012 to secure a new gTLD. The ASP ensures organisations with limited resources can also participate in and benefit from this expansion of the internet address system.”
+
+Dandjinou added: “The New gTLD Programme: Next Round empowers businesses, communities and individuals to create online spaces that reflect their unique identities, languages and cultures. This programme reinforces ICANN’s commitment to fostering innovation, competition and consumer choice within the domain name industry.
+
+“The ASP further strengthens this commitment by empowering more entrepreneurs, small businesses, governments and communities worldwide to apply for and operate their own generic top-level domains.”
+
+To be eligible for the programme, applicants must meet financial need and financial viability criteria.
+
+Additionally, they must fall into at least one of the following entity categories: NPOs, charities, or equivalent – intergovernmental organisations, indigenous/tribal peoples’ organisations, social impact or public benefit micro or small businesses, or micro or small businesses from a less-developed economy.
+
+“ASP applicants will be evaluated on an ongoing basis. The 
+application
+ window will remain open for 12 months.”
+
+For further information on evaluation and eligibility criteria, interested applicants can review the ASP Handbook.
